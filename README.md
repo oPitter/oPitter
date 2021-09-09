@@ -1,4 +1,4 @@
-# Hi, I'm Pedro Pitter! :D
+# Hi, I'm Pedro Pitter! :)
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/oPitter)](https://github.com/oPitter)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-de-fran%C3%A7a-69599a170/)](https://www.linkedin.com/in/pedro-de-fran%C3%A7a-69599a170/)
