@@ -4,7 +4,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-de-fran%C3%A7a-69599a170/)](https://www.linkedin.com/in/pedro-de-fran%C3%A7a-69599a170/)
 
 ### About me
-I'm a {Passionate about innovations, FrontEnd, Designer and Bootcamper at DIO} Creative developer, solution creator.
+I'm a Pedro França{Passionate about innovations, FrontEnd, Designer and Bootcamper at DIO} Creative developer, solution creator.
 
 - [Courses](https://web.digitalinnovation.one/users/pedromesquitafranca?tab=achievements) 👨🏼‍🏫 - A student with a great thirst for learning!
 
