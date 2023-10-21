@@ -6,10 +6,10 @@
 ![oPitter GitHub stats](https://github-readme-stats.vercel.app/api?username=oPitter&theme=dark&show_icons=true)
                     
 ### About me
-I'm a Pedro França{Passionate about innovations, FrontEnd, Designer and Bootcamper at DIO} Creative developer, solution creator.
-  Estuding JAVA, SpringBoot, PHP and PostGreSQL.
+I'm a Pedro França{Passionate about innovations, BackEnd Junior PHP, Designer and 
+curious} Creative developer, solution creator, solutions architect.
+  Estuding JAVA, SpringBoot, PHP and MySQL.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oPitter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-- [Courses](https://web.digitalinnovation.one/users/pedromesquitafranca?tab=achievements) 👨🏼‍🏫 - A student with a great thirst for learning!
+ 👨🏼‍🏫 - A student with a great thirst for learning!
 
