@@ -10,8 +10,9 @@ I'm a Pedro França{Passionate about innovations, BackEnd Junior PHP, Designer a
 curious} Creative developer, solution creator, solutions architect.
 
   Estuding JAVA, SpringBoot, PHP, Laravel, CSS, HTML5 and MySQL.
+   👨🏼‍🏫 - A student with a great thirst for learning!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oPitter&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
- 👨🏼‍🏫 - A student with a great thirst for learning!
+
 
